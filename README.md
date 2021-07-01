@@ -3,6 +3,7 @@
 This workshop will introduce you to HTML, CSS, and (a little bit of SVG) in order to create two cards or memes. 
 1. text with styling, and an animated svg element. 
 2. text over an image. 
+
 We then host them as websites on Github. After, we code buttons and embed them into emails so that you can send your loved one a pretty button that 'on click' takes them to your card or meme!
 ----
 
