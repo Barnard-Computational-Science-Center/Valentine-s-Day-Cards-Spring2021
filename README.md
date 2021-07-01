@@ -1,6 +1,9 @@
 # Valentine-s-Day-Cards-Spring2021
 
-This workshop will introduce you to HTML and CSS in order to create two Valentine's Day cards. One will be simple text with styling, and an animated svg element. The other will include text over an image. After the creation of the Valentine's Day Cards, we will go over embedding the cards into emails and hosting websites on Github. You will leave this workshop having sent out a card or meme via email, and with the ability to apply your skills towards making more cards or towards designing web pages. In this workshop, we will use JSFiddle. JSFiddle is an online IDE where you can see your HTML, CSS, JavaScript and rendering all in one screen.
+This workshop will introduce you to HTML, CSS, and (a little bit of SVG) in order to create two cards or memes. 
+1. text with styling, and an animated svg element. 
+2. text over an image. 
+We them host them as websites on Github. After, we code buttons and embed them into emails so that you can send your loved one a pretty button that 'on click' takes them to your card or meme!
 ----
 
 Use the markdown file included to follow along with the descriptions and code examples for learning HTML and CSS.  
