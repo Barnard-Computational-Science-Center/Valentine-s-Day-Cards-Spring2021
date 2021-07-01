@@ -8,7 +8,7 @@ We then host them as websites on Github. After, we code buttons and embed them i
 
 ----
 
-Use the markdown file included to follow along with the descriptions and code examples for learning HTML and CSS.  
+Use the markdown file included to follow along with the descriptions and code examples.  
 
 For more fun and interactice CSS and HTML pratice, try out this free, online resource!
   - https://flukeout.github.io/
