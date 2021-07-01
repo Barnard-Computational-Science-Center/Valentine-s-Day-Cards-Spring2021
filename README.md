@@ -9,8 +9,9 @@ For more fun and interactice CSS and HTML pratice, try out this free, online res
   - https://flukeout.github.io/.
   
 You can also use this workshop as a beginning step to building a website!  
-Once you are familiar with HTML & CSS you will be able to navigate and modify open source website templates such as these: https://www.w3schools.com/bootstrap/bootstrap_templates.asp
+Once you are familiar with HTML & CSS you will be able to navigate and modify open source website templates such as these: 
+  - https://www.w3schools.com/bootstrap/bootstrap_templates.asp
 Or, you can build it from scratch.
 
 If you are a Barnard student and you are interested in a comprehensive Barnard program for website building, you may be interested in the Athena Digital Design Agency.
-https://www.athenadigitaldesign.org
+  - https://www.athenadigitaldesign.org
