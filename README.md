@@ -5,6 +5,7 @@ This workshop will introduce you to HTML, CSS, and (a little bit of SVG) in orde
 2. text over an image. 
 
 We then host them as websites on Github. After, we code buttons and embed them into emails so that you can send your loved one a pretty button that 'on click' takes them to your card or meme!
+
 ----
 
 Use the markdown file included to follow along with the descriptions and code examples for learning HTML and CSS.  
