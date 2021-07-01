@@ -1,5 +1,5 @@
 # Valentine-s-Day-Cards-Spring2021
-Use HTML and CSS to make cards, host them on websites using Github, and code  buttons and embed them into gmail to send to your friends and loved ones!
+Use HTML and CSS to make cards, host them as websites using Github, and code  buttons and embed them into gmail to send to your friends and loved ones!
 
 ----
 
